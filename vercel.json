@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "docs",
+  "functions": {
+    "api/*.js": { "maxDuration": 60 }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-roundtable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "طاولة نقاش بين Claude وChatGPT وGemini وManus",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@neondatabase/serverless": "latest"
+  }
+}
